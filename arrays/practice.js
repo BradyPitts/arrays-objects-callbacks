@@ -58,10 +58,8 @@ var family = ['Tyler', 'Jordyn', 'Ryan', 'Chelsey', 'Ireland'];
 //Code Here
 
 function looper (family){
-  i = 0;
-  while (i <= family[i]){
-    retrun family[i];
-    i ++;
+  for (i = 0; i < family.length; i++){
+    alert (family[i]);
   }
 }
 
@@ -81,10 +79,8 @@ var letters = ['A', 'B', 'C', 'D', 'E'];
 //Code Here
 
 function reversedLooper (letters){
-  i = 4;
-  while (i > 0){
-    retrun `${letters[i]}`;
-    i --;
+  for (i = letters.length -1; i >= 0; i--){
+    alert (letters[i]);
   }
 }
 
