@@ -29,7 +29,8 @@
 
 // Code Here 
 
-function first(names,){
+function first([],cb){
+  return cb(0)
 
 }
 

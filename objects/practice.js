@@ -121,6 +121,14 @@ var user2 = {
 user2.name = "Bryan G. Smith"
 user2.email = "bryan.smith@devmounta.in"
 
+
+
+
+
+
+
+
+
 /////////////////////// EXTRA PRACTICE PROBLEMS BELOW ////////////////////
 ////////// MOVE ONTO NEXT SECTION BEFORE WORKING ON THESE ////////////////
 

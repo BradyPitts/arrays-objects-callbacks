@@ -103,7 +103,7 @@ function evenFinder (nums){
   let i = 0;
   let ii = 0;
   let retarray = [null];
-  while (i < 9){
+  while (i < nums.lenght){
     let evenTF = (nums[i] % 2);
     if (evenTF == 0){
       retarray[ii] = nums[i];
